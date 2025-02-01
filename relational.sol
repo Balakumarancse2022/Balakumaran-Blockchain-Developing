@@ -2,7 +2,8 @@
 
 pragma solidity >=0.8.2 <0.9.0;
 contract relational{
-                                                                 uint16 public a = 20;
+                                                                
+uint16 public a = 20;
 
                                                                  uint16 public b = 10;
                                                                  
